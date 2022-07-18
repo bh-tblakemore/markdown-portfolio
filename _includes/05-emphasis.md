@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Truth
+*Stout > IPA*
+__I'm bitter enough__
+
+##Skills
+- **Transfer 2 Ryan**
+- Bish Bucket
